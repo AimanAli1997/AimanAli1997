@@ -21,7 +21,7 @@
 ![Picture7](https://user-images.githubusercontent.com/81187827/138748444-354b4422-2d90-436a-81da-c7279a7746af.png)
 
 
-# Carpooling Chatbot
+# Carpooling Chatbot 
 
 ## Booking cab for later and giving information
 ![Picture1](https://user-images.githubusercontent.com/81187827/138752217-d1bfb622-36fa-4e10-a1fe-34fc2a0f1da3.png)
@@ -62,7 +62,22 @@
 ## Talk to the Rider
 ![Picture10](https://user-images.githubusercontent.com/81187827/138750768-50a1efcc-eba1-4785-afaa-2edc88792781.png)
 
+# Random Pages UI/UX Designing
+## Nice! Signin Page
+![Picture1](https://user-images.githubusercontent.com/81187827/138754838-c4c24e88-e9fb-4f38-8acf-faba75873afc.png)
+## Payment Page with different steps
+![Picture2](https://user-images.githubusercontent.com/81187827/138754845-c9316bc8-1224-4583-9f61-cf4ea531d505.png)
 
+
+# Food Ordering App
+## Add to cart
+![Picture1](https://user-images.githubusercontent.com/81187827/138755430-3fbe24eb-d937-4575-9b74-00486feb15a0.png)
+## checkout
+![Picture2](https://user-images.githubusercontent.com/81187827/138755432-f9019b27-5ba8-4d64-8ac4-11a4414fe8ee.png)
+## Choosing Payment Option 
+![Picture3](https://user-images.githubusercontent.com/81187827/138755420-d7c8f311-04b9-4b67-b877-81e953c5902c.png)
+## Invoice
+![Picture4](https://user-images.githubusercontent.com/81187827/138755427-4c4ff299-6171-4ba6-8abe-ddb2baa470ec.png)
 
 
 
