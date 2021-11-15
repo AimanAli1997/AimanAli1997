@@ -7,6 +7,50 @@
 <br/>
 <br/>
 
+# Portfolio 
+## Adobephotosop Logos
+<br/>
+<br/>
+
+
+
+![logo1](https://user-images.githubusercontent.com/81187827/141835730-0b0a269c-1719-406b-9218-262b56f087e0.PNG)
+
+
+<br/>
+<br/>
+<br/>![logo2](https://user-images.githubusercontent.com/81187827/141835823-ba5d6435-4192-44ac-98f9-f9df17140a40.PNG)
+<br/>
+<br/>
+
+![logo2](https://user-images.githubusercontent.com/81187827/141836211-42123534-03f6-43de-810a-fed0341af46f.PNG)
+
+
+<br/>
+<br/>
+<br/>
+
+# Adobe XD
+<br/>
+<br/>
+
+![xd](https://user-images.githubusercontent.com/81187827/141836582-0073ef45-c10f-4190-8986-e9273aa1aa29.PNG)
+
+<br/>
+<br/>
+<br/>
+
+# Figma 
+<br/>
+<br/>
+
+![figma](https://user-images.githubusercontent.com/81187827/141836791-55f4c30d-3fea-4776-b93e-1b90da133c28.PNG)
+
+
+<br/>
+<br/>
+<br/>
+
 
 # 1. Event Management Mobile App
 
