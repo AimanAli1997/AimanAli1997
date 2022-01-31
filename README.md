@@ -51,7 +51,11 @@
 # Figma 
 <br/>
 <br/>
+
 ## Music Player
+<br/>
+<br/>
+
 ![figma](https://user-images.githubusercontent.com/81187827/141836791-55f4c30d-3fea-4776-b93e-1b90da133c28.PNG)
 
 
