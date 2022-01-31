@@ -19,9 +19,6 @@
 
 <br/>
 <br/>
-<br/>![logo2](https://user-images.githubusercontent.com/81187827/141835823-ba5d6435-4192-44ac-98f9-f9df17140a40.PNG)
-<br/>
-<br/>
 
 ![logo2](https://user-images.githubusercontent.com/81187827/141836211-42123534-03f6-43de-810a-fed0341af46f.PNG)
 
@@ -31,12 +28,22 @@
 <br/>
 
 # Adobe XD
+
+<br/>
+<br/>
+
+![webdesignxd](https://user-images.githubusercontent.com/81187827/151765204-6d64e44b-f766-4203-b73d-cae7e043a081.PNG)
+
+<br/>
+<br/>
+
+![Capture (1)](https://user-images.githubusercontent.com/81187827/151765285-361767f0-6a61-413a-8dc2-67eb05f6934c.PNG)
+
 <br/>
 <br/>
 
 ![xd](https://user-images.githubusercontent.com/81187827/141836582-0073ef45-c10f-4190-8986-e9273aa1aa29.PNG)
 
-<br/>
 <br/>
 <br/>
 
@@ -168,12 +175,40 @@
 <br/>
 <br/>
 # 6. Food Ordering App
+
+<br/>
+<br/>
+
 ## Add to cart
+
+<br/>
+<br/>
+
 ![Picture1](https://user-images.githubusercontent.com/81187827/138755430-3fbe24eb-d937-4575-9b74-00486feb15a0.png)
+
+<br/>
+<br/>
+
 ## checkout
+
+<br/>
+<br/>
+
 ![Picture2](https://user-images.githubusercontent.com/81187827/138755432-f9019b27-5ba8-4d64-8ac4-11a4414fe8ee.png)
+
+<br/>
+<br/>
 ## Choosing Payment Option 
+
+<br/>
+<br/>
+
 ![Picture3](https://user-images.githubusercontent.com/81187827/138755420-d7c8f311-04b9-4b67-b877-81e953c5902c.png)
+
+
+<br/>
+<br/>
+
 ## Invoice
 ![Picture4](https://user-images.githubusercontent.com/81187827/138755427-4c4ff299-6171-4ba6-8abe-ddb2baa470ec.png)
 
@@ -182,23 +217,7 @@
 <br/>
 <br/>
 
-# 7.  Movie Ticket Booking App
-## Login Page
-![Picture1](https://user-images.githubusercontent.com/81187827/138749836-43a93a40-ae99-41a4-8836-f89bbf3c8b0f.png)
-## Select Movies 
-![Picture2](https://user-images.githubusercontent.com/81187827/138749825-ad5cf254-53af-4ec2-be1d-62340b615ab6.png)
-## Book Seats for Movie
-![Picture3](https://user-images.githubusercontent.com/81187827/138749832-55dacd0e-78ff-4f06-a6b1-c5ed276116c9.png)
-
-
-
-
-
-<br/>
-<br/>
-<br/>
-
-# 8. UI/UX Designing University Project
+# 7. UI/UX Designing University Project
 
 ## Login & SignUp Page
 ![Picture2](https://user-images.githubusercontent.com/81187827/138743149-05c1a1fc-c25f-4d54-9b48-430d376b8a50.png)
@@ -232,55 +251,12 @@
 ![Picture10](https://user-images.githubusercontent.com/81187827/138746109-6c5ce2de-6e8a-4fc9-9981-8c99decf9406.png)
 ![Picture13](https://user-images.githubusercontent.com/81187827/138746273-64add22e-7f24-44d0-843e-1178b2c47cf4.png)
 
-
-
-<br/>
 <br/>
 <br/>
 
-
-
-
-# 9. Adobe Illustrator
+# 8. Adobe Illustrator
 ## Cartoon Art of Robert Downey Jr.
 ![robert](https://user-images.githubusercontent.com/81187827/138738275-117d0aba-0259-425b-a59c-7601416d2851.jpg)
 
 ## Scenery
 ![scenery](https://user-images.githubusercontent.com/81187827/138738334-1e709ddf-885b-4bb7-8318-da0a3fd13b50.jpg)
-
-## Random Logo
-![card2](https://user-images.githubusercontent.com/81187827/138740382-ac02cf49-f77a-424a-bdff-5030018fa091.jpg)
-
-
-
-
-<br/>
-<br/>
-<br/>
-
-# 10. Calender App
-
-![Picture1](https://user-images.githubusercontent.com/81187827/138756529-05c1b6fc-de65-4cd4-ba7f-8d0ce7564872.png)
-![Picture2](https://user-images.githubusercontent.com/81187827/138756532-e535df5b-f61e-4e05-8b32-687b72687d6a.png)
-![Picture3](https://user-images.githubusercontent.com/81187827/138756533-e50e395a-85b8-48ca-973c-14dfcbc9cd7e.png)
-![Picture4](https://user-images.githubusercontent.com/81187827/138756519-37174a7c-729b-4e1c-9327-f41a4ccaa365.png)
-![Picture5](https://user-images.githubusercontent.com/81187827/138756524-f7a28bc4-736a-4e39-b322-19eeb6c2cd3d.png)
-![Picture6](https://user-images.githubusercontent.com/81187827/138756525-d7424244-d5dd-417d-94ff-b73821b6af19.png)
-![Picture7](https://user-images.githubusercontent.com/81187827/138756526-3afa5449-7d01-4947-8d81-572728140ec8.png)
-![Picture8](https://user-images.githubusercontent.com/81187827/138756527-b9b612cf-7dab-424b-bb0a-719294b34a2e.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
