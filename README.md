@@ -11,7 +11,18 @@
 <br/>
 <br/>
 
+![Capture](https://user-images.githubusercontent.com/81187827/152830651-530580ea-248e-42ab-9966-4e6ae0ce7082.PNG)
+
+<br/>
+<br/>
+
+
 ![shoes app design 01](https://user-images.githubusercontent.com/81187827/151784444-cf3ca3ac-abb3-4cc3-8061-076abf1498d5.PNG)
+
+<br/>
+<br/>
+
+![Capture2](https://user-images.githubusercontent.com/81187827/152830917-56cc1f1a-20e5-4bab-8a14-4ab78c481ece.PNG)
 
 <br/>
 <br/>
