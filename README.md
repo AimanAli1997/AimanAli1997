@@ -222,90 +222,11 @@ https://user-images.githubusercontent.com/81187827/159884222-e878de0f-0fdd-480d-
 ![managernewpic2](https://user-images.githubusercontent.com/81187827/138735537-b0628d58-1c3b-4616-ae89-b68dbcf9caad.png)
 
 ### Showing Prediction
-![managernewpic3](https://user-images.githubusercontent.com/81187827/138735540-29e5e1f4-c177-4d07-a038-ca80fe1d3d10.png)
-
-<br/>
-<br/>
-<br/>
-# 6. Food Ordering App
+![managernewpic3](https://user-images.githubusercontent.com/81187827/138735540-29e5e1f4-c177-4d07-a038-ca80fe1d3d10.p
 
 <br/>
 <br/>
 
-## Add to cart
-
-<br/>
-<br/>
-
-![Picture1](https://user-images.githubusercontent.com/81187827/138755430-3fbe24eb-d937-4575-9b74-00486feb15a0.png)
-
-<br/>
-<br/>
-
-## checkout
-
-<br/>
-<br/>
-
-![Picture2](https://user-images.githubusercontent.com/81187827/138755432-f9019b27-5ba8-4d64-8ac4-11a4414fe8ee.png)
-
-<br/>
-<br/>
-## Choosing Payment Option 
-
-<br/>
-<br/>
-
-![Picture3](https://user-images.githubusercontent.com/81187827/138755420-d7c8f311-04b9-4b67-b877-81e953c5902c.png)
-
-
-<br/>
-<br/>
-
-## Invoice
-![Picture4](https://user-images.githubusercontent.com/81187827/138755427-4c4ff299-6171-4ba6-8abe-ddb2baa470ec.png)
-
-
-<br/>
-<br/>
-<br/>
-
-# 7. UI/UX Designing University Project
-
-## Login & SignUp Page
-![Picture2](https://user-images.githubusercontent.com/81187827/138743149-05c1a1fc-c25f-4d54-9b48-430d376b8a50.png)
-
-
-## Home Page
-![Picture3](https://user-images.githubusercontent.com/81187827/138743298-2e2db335-873f-465f-b0bb-14ce665cab05.png)
-
-
-## Boo Details
-![Picture4](https://user-images.githubusercontent.com/81187827/138743862-83dc7512-c101-4ce3-a8d4-05cd6e7e0d23.png)
-
-## Admin Register Form
-![Picture6](https://user-images.githubusercontent.com/81187827/138745011-ead555f4-9793-425a-8527-c2f44057a3d9.png)
-
-## Admin Login Form
-
-![Picture7](https://user-images.githubusercontent.com/81187827/138745112-0d04ff84-99b4-493b-975a-d0846d8fc9c8.png)
-
-## Admin Dashboard shows Customer Data
-![Picture8](https://user-images.githubusercontent.com/81187827/138745416-db720698-e081-42e4-967e-116d069ac2cb.png)
-
-## Admin Dashboard shows Book List
-
-![Picture9](https://user-images.githubusercontent.com/81187827/138745581-0b6c259f-4a18-42ce-90fd-24280a0385f8.png)
-
-
-
-## Admin Set Add Categories, Education Level and Other admins
-![Picture11](https://user-images.githubusercontent.com/81187827/138746093-bdea3359-2765-401d-a815-fd3e3fb09695.png)
-![Picture10](https://user-images.githubusercontent.com/81187827/138746109-6c5ce2de-6e8a-4fc9-9981-8c99decf9406.png)
-![Picture13](https://user-images.githubusercontent.com/81187827/138746273-64add22e-7f24-44d0-843e-1178b2c47cf4.png)
-
-<br/>
-<br/>
 
 # 8. Adobe Illustrator
 ## Cartoon Art of Robert Downey Jr.
