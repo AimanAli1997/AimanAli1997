@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-## Splash Screen and Snall mobile App
+## Splash Screen and Small mobile App
 
 <br/>
 <br/>
@@ -39,11 +39,13 @@ https://user-images.githubusercontent.com/81187827/159884222-e878de0f-0fdd-480d-
 <br/>
 <br/>
 
+![Capture66](https://user-images.githubusercontent.com/81187827/159920316-51c35ef0-d6c3-40c6-b7db-22ed7e04bd48.PNG)
 
-![shoes app design 01](https://user-images.githubusercontent.com/81187827/151784444-cf3ca3ac-abb3-4cc3-8061-076abf1498d5.PNG)
 
 <br/>
 <br/>
+
+
 
 ![Capture2](https://user-images.githubusercontent.com/81187827/152830917-56cc1f1a-20e5-4bab-8a14-4ab78c481ece.PNG)
 
