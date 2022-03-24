@@ -6,6 +6,19 @@
 
 # Portfolio 
 
+<br/>
+<br/>
+
+## landing page for headphones
+
+<br/>
+<br/>
+
+![Capture12345](https://user-images.githubusercontent.com/81187827/159918101-8dab09a5-9712-45d5-afcb-7ecc295dac94.PNG)
+
+<br/>
+<br/>
+
 ## Splash Screen and Snall mobile App
 
 <br/>
