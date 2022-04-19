@@ -5,6 +5,30 @@
 # Adobe XD, Figma, Illustrator, Photoshop, Pencil tool
 
 # Portfolio 
+<br/>
+<br/>
+
+
+
+
+
+<br/>
+<br/>
+
+![Capture7687768](https://user-images.githubusercontent.com/81187827/163970590-6724b1ca-a6e6-4e43-b827-1c8ab3b4bcee.PNG)
+
+<br/>
+<br/>
+
+
+![Capture545 4](https://user-images.githubusercontent.com/81187827/163970893-62bdad9e-8b8d-4210-8c26-6bb7a7cb02a2.PNG)
+
+
+<br/>
+<br/>
+
+![Frame 1 (1)](https://user-images.githubusercontent.com/81187827/163969902-9fddfee0-9521-4fb9-b185-5b32730f8f3d.png)
+
 
 <br/>
 <br/>
