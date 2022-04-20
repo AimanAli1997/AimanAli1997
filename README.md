@@ -2,16 +2,26 @@
 - 👀 I’m interested in ui/ux designing
 - 🌱 I have graduated in BSc. Software Engneering
 - 📫 Reach me through my email aymenalee.aa@gmail.com
-# Adobe XD, Figma, Illustrator, Photoshop, Pencil tool
+# TOOLS: Adobe XD, Figma, Illustrator, Photoshop, Pencil tool
+# logos, design, websitge design, prototypes, Apps , Landing pages and all
 
-# Portfolio 
 <br/>
 <br/>
 
-## ROBERT TANNIRU 
+# ROB TANNIRU TIKTOK STAR (writewordsmakemagic) logo mand website designs
 
 ![Artboard 1 1](https://user-images.githubusercontent.com/81187827/164147838-590e3449-1a2d-4897-a2f4-e9c3a7015b44.png)
 
+<br/>
+<br/>
+
+![Capture7567588](https://user-images.githubusercontent.com/81187827/164149183-7bb44384-438b-4c44-b95d-4c75b5125b69.PNG)
+
+
+<br/>
+<br/>
+
+![Capture56757](https://user-images.githubusercontent.com/81187827/164149129-4ef93381-e46b-4f8b-8909-244c00bc3670.PNG)
 
 <br/>
 <br/>
