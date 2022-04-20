@@ -8,7 +8,12 @@
 <br/>
 <br/>
 
-# ROB TANNIRU TIKTOK STAR (writewordsmakemagic) logo mand website designs
+# NFT WEBSITE FOR ZILLIONAIR ZEBRA SOCIETY
+
+<br/>
+<br/>
+
+# NFT Website for "TIKTOK STAR" and "AMBIGRAM ARTIST" ROB TANNIRU (writewordsmakemagic) 
 
 ![Artboard 1 1](https://user-images.githubusercontent.com/81187827/164147838-590e3449-1a2d-4897-a2f4-e9c3a7015b44.png)
 
