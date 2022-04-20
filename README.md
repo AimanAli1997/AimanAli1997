@@ -45,6 +45,18 @@
 <br/>
 <br/>
 
+## website demo
+
+<br/>
+<br/>
+
+![Frame 1 (2)](https://user-images.githubusercontent.com/81187827/164149584-946ff502-ce5d-4c15-89f6-87e4036aaff1.png)
+
+
+
+<br/>
+<br/>
+
 ## landing page for headphones
 
 <br/>
