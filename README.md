@@ -13,6 +13,13 @@
 <br/>
 <br/>
 
+
+![GHFGHHJG](https://user-images.githubusercontent.com/81187827/165466282-3a813d9d-5496-4ff1-a510-d2f7ad562f6b.PNG)
+
+
+<br/>
+<br/>
+
 # NFT Website for "TIKTOK STAR" and "AMBIGRAM ARTIST" ROB TANNIRU (writewordsmakemagic) 
 
 ![Artboard 1 1](https://user-images.githubusercontent.com/81187827/164147838-590e3449-1a2d-4897-a2f4-e9c3a7015b44.png)
