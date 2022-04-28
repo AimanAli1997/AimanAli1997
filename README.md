@@ -2,13 +2,48 @@
 - 👀 I’m interested in ui/ux designing
 - 🌱 I have graduated in BSc. Software Engneering
 - 📫 Reach me through my email aymenalee.aa@gmail.com
-# TOOLS: Adobe XD, Figma, Illustrator, Photoshop, Pencil tool
-# logos, design, websitge design, prototypes, Apps , Landing pages and all
+#### TOOLS: Adobe XD, Figma, Illustrator, Photoshop, Pencil tool
+#### logos, design, websitge design, prototypes, Apps , Landing pages and all
+<br/>
+<br/>
+
+# REMME WEBSITE
 
 <br/>
 <br/>
+
+![Frame 6](https://user-images.githubusercontent.com/81187827/165694575-7556662d-275f-4ac4-ac89-71fcbedcb272.png)
+
+
+<br/>
+<br/>
+
+![Frame 7](https://user-images.githubusercontent.com/81187827/165694412-1aedca93-bfb8-476e-9e84-37d7b95a59c8.png)
+
+
+<br/>
+<br/>
+
+![Frame 1](https://user-images.githubusercontent.com/81187827/165694710-b3399b34-c9d2-4991-aace-7d1111b1d264.png)
+
+
+<br/>
+<br/>
+
+
+![CaptureGRTYRHRTHG](https://user-images.githubusercontent.com/81187827/165695407-21795cc2-19e2-49ef-8fbb-3616f70cb530.PNG)
+
+
+<br/>
+<br/>
+
 
 # NFT WEBSITE FOR ZILLIONAIR ZEBRA SOCIETY
+
+<br/>
+<br/>
+
+
 
 <br/>
 <br/>
