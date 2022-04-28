@@ -7,6 +7,33 @@
 <br/>
 <br/>
 
+
+# Desktop Login
+
+<br/>
+<br/>
+
+
+![Desktop - 1](https://user-images.githubusercontent.com/81187827/165741025-0ca22ad7-e799-4654-9f61-cf2d829400fd.png)
+
+
+
+<br/>
+<br/>
+
+# NFT home page
+
+<br/>
+<br/>
+
+![Desktop - 2 (1)](https://user-images.githubusercontent.com/81187827/165741307-3a5f81b9-dfbf-416b-80bf-80c6e351d507.png)
+
+
+
+<br/>
+<br/>
+
+
 # REMME WEBSITE
 
 <br/>
